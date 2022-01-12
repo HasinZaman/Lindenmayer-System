@@ -14,7 +14,7 @@ namespace LSystem
         Sentence productionRule { get;}
 
         /// <summary>
-        ///     variable defines that triggers the production rule
+        ///     variable defines the char trigger for production rule
         /// </summary>
         char var { get;}
 
