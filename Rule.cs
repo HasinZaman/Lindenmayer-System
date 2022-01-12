@@ -79,7 +79,7 @@ namespace LSystem
     }
 
     /// <summary>
-    ///     StochasticRule class create L-System Production Rule using Stochastic grammar. In which rules are based on probability and pseudo random algorthims.
+    ///     StochasticRule class create L-System Production Rule using Stochastic grammar. In which rules are based on probability and pseudo random numbers.
     /// </summary>
     public class StochasticRule : IRule
     {
