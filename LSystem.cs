@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 
 /// <summary>
-///     Lindenmayer system (L-System) is a mathematical repersentation to model the behaviour of plant cells. However, it can be used to recusively simulate the growth of fractals, vareity of other organisims and etc.
+///     Lindenmayer system (L-System) is a mathematical model - that was intially used to model behaviour of plant cells. However, it can be used to recusively simulate the growth of fractals, vareity of other organisims and etc.
 ///     L-System is defined by an Alphabet, Axiom and Production rules. In which the Alphabet are symbols in a sentence. Variables are symbols that are replaced between positions. While, constants are not replace between positions. Axiom defines the intial 0th position. Product rules define how variables change between positions. Positions refer to the end state after n recursive runs using the product rules.
 /// </summary>
 namespace LSystem
